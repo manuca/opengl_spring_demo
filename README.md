@@ -15,6 +15,8 @@ Google for it (search for "compile with glut under linux" or something).
 
 Unfortunately the code has spanish comments and names.
 
+![Screen capture](https://raw.github.com/manuca/opengl_spring_demo/master/spring.png)
+
 Building
 ========
 
