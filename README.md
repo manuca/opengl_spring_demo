@@ -10,7 +10,7 @@ under Win32. Today I own a Mac and managed to tweak the code just so that it
 compiles and runs.  
 
 Below you'll find instructions to compile under OSX, I don't remember the exact
-paramters I used to compile under linux/win32 but it was really easy just
+parameters I used to compile under linux/win32 but it was really easy just
 Google for it (search for "compile with glut under linux" or something).
 
 Unfortunately the code has spanish comments and names.
